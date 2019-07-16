@@ -2,7 +2,8 @@
 
 namespace Mylib
 {
-    public class Class1
+    public class MyClass
     {
+
     }
 }
